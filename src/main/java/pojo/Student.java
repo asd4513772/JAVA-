@@ -10,7 +10,7 @@ import lombok.EqualsAndHashCode;
 @EqualsAndHashCode(callSuper = false)
 @TableName("studen")
 public class Student {
-
+//··········
     Integer id;   //主键
     String Name; //名字
     Double Chinese; //语文
